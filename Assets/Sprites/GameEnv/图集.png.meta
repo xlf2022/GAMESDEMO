@@ -118,8 +118,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c72443ed0d61034da44833d34471d3e
-      internalID: 754415181
+      spriteID: 204fb59581036a24d81c2d425eda77b0
+      internalID: -2133892914
       vertices: []
       indices: 
       edges: []
@@ -139,8 +139,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a21f6cf7b9f73646a295a51e4909f76
-      internalID: -1478801284
+      spriteID: 430975063eb969e4ab5081d3262cf694
+      internalID: -1089207345
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6de914fcb8c2cb4499418caa28ac29d
-      internalID: 114344558
+      spriteID: 8533c6af20300fe4e879d107428d90c4
+      internalID: 2127860136
       vertices: []
       indices: 
       edges: []
@@ -181,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6edc1abed1e54cc479851463f17e6141
-      internalID: -1575673057
+      spriteID: 9a22dd2d9b2b8db47b14c67acec57bf7
+      internalID: 1178173155
       vertices: []
       indices: 
       edges: []
@@ -202,8 +202,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1c26b728f30f1f4aa26ba25c33e9bc4
-      internalID: 563758442
+      spriteID: e5ddb6bd3a09ecf4f9db3e5bb4dd4401
+      internalID: -1931081107
       vertices: []
       indices: 
       edges: []
@@ -223,8 +223,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea4d30a82e9c5df439018a64e13530fe
-      internalID: -1405002155
+      spriteID: 2450270da5c3ca04c990106aba58eb27
+      internalID: 205277767
       vertices: []
       indices: 
       edges: []
@@ -240,12 +240,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u56FE\u96C6_4": 563758442
-      "\u56FE\u96C6_1": -1478801284
-      "\u56FE\u96C6_5": -1405002155
-      "\u56FE\u96C6_3": -1575673057
-      "\u56FE\u96C6_2": 114344558
-      "\u56FE\u96C6_0": 754415181
+      "\u56FE\u96C6_4": -1931081107
+      "\u56FE\u96C6_1": -1089207345
+      "\u56FE\u96C6_5": 205277767
+      "\u56FE\u96C6_3": 1178173155
+      "\u56FE\u96C6_2": 2127860136
+      "\u56FE\u96C6_0": -2133892914
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
